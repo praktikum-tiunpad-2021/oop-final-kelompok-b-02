@@ -16,7 +16,7 @@
 | 2.1 | Mengaplikasikan Gerakan Ular | Rafi |
 | 2.2 | Membuat Makanan Ular | Rakha |
 | 3.1 | Mengaplikasikan pertambahan panjang | Rakha |
-| 3.2 | Testing dan Bug Fixing | Rafi |
+| 3.2 | Testing, Bug Fixing dan Penambahan Hal lain (jika ada) | Rafi |
 | 3.3 | Membuat Score | John Doe |
 
 ## Sprint Backlog Plan (Sprint 1)

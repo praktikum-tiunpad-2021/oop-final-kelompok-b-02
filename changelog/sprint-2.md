@@ -2,27 +2,26 @@
 | From dd/mm/yyyy to dd/mm/yyyy
 
 ## Team (Insert your name)
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| NPM           | Name                 |
+| ------------- |----------------------|
+| 140810200056  | Rafi Alauddin        |
+| 140810200064  | M. Ariiq Rakha Shafa |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+|Mengaplikasikan Gerakan Ular | n             |
+|Membuat Makanan Ular | n             |
 
 ## Sprint 2 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Preparing the x | Jane Doe | DONE |
-| 2.2 | Make the x | John Doe | FAILED |
+| 2.1 | Mengaplikasikan Gerakan Ular | Rafi |
+| 2.2 | Membuat Makanan Ular | Rakha |
 
 ## Retrospective 
-
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Masih terjadi Bug pada pergerakan dan start game
 
 ## Next Sprint Backlog (Sprint 3)
 | ID  | Title/Desc | Asignee | 

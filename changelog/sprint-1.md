@@ -10,21 +10,22 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| Membuat Base  | -             |
+| Membuat Ular  | -             |
 
 ## Sprint 1 Backlog
 
-| ID  | Title/Desc | Asignee | Status |
-| --- | ---------- | ------- | ------ |
-| 1.1 | Preparing the x | Jane Doe | DONE |
-| 1.2 | Make the x | John Doe | FAILED |
+| ID  | Title/Desc | Asignee | 
+| --- | ---------- | ------- | 
+| 1.1 | Membuat Base | Rafi | 
+| 1.2 | Membuat Ular | Rakha |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Masih mempelajari basic java fx sehingga ada keterlambatan pada saat pengerjaan
 
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 2.1 | Mengaplikasikan Gerakan Ular | Rafi |
+| 2.2 | Membuat Makanan Ular | Rakha |

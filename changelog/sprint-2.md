@@ -10,8 +10,8 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-|Mengaplikasikan Gerakan Ular | n             |
-|Membuat Makanan Ular | n             |
+|Mengaplikasikan Gerakan Ular | Failed |
+|Membuat Makanan Ular | Failed |
 
 ## Sprint 2 Backlog
 

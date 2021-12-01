@@ -22,8 +22,8 @@
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Membuat Base | Jane Doe | 
-| 1.2 | Membuat Ular | John Doe |
+| 1.1 | Membuat Base | Rafi | 
+| 1.2 | Membuat Ular | Rakha |
 
 ## Retrospective 
 

@@ -84,7 +84,7 @@ public class Main extends Application {
             }
         });
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 5; i++) {
             snakeBody.add(new Point(5, ROWS / 2));
         }
         snakeHead = snakeBody.get(0);
@@ -191,7 +191,7 @@ public class Main extends Application {
     }
 
     public void gameOver() {
-        if (snakeHead.x < 0 || snakeHead.y < 0 || snakeHead.x * SQUARE_SIZE >= WIDTH || snakeHead.y * SQUARE_SIZE >= HEIGHT) {
+        if (snakeHead.x < 0 || snakeHead.y < 0 || snakeHead.x * SQUARE_SIZE >= (WIDTH-1) || snakeHead.y * SQUARE_SIZE >= (HEIGHT-1)) {
             gameOver = true;
         }
 

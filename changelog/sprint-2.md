@@ -10,15 +10,15 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-|Mengaplikasikan Gerakan Ular | n             |
-|Membuat Makanan Ular | n             |
+|Membuat Base | Done |
+|Membuat Ular | Done |
 
 ## Sprint 2 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Mengaplikasikan Gerakan Ular | Rafi |
-| 2.2 | Membuat Makanan Ular | Rakha |
+| 2.1 | Mengaplikasikan Gerakan Ular | Rafi | Done |
+| 2.2 | Membuat Makanan Ular | Rakha |  Done |
 
 ## Retrospective 
 Masih terjadi Bug pada pergerakan dan start game

@@ -17,13 +17,13 @@
 | 2.2 | Membuat Makanan Ular | Rakha |
 | 3.1 | Mengaplikasikan pertambahan panjang | Rakha |
 | 3.2 | Testing, Bug Fixing dan Penambahan Hal lain (jika ada) | Rafi |
-| 3.3 | Membuat Score | John Doe |
+| 3.3 | Membuat Score | Rafi & Rakha |
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Membuat Base | Jane Doe | 
-| 1.2 | Membuat Ular | John Doe |
+| 1.1 | Membuat Base | Rafi | 
+| 1.2 | Membuat Ular | Rakha |
 
 ## Retrospective 
 

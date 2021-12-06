@@ -10,7 +10,8 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| Mengaplikasikan Gerakan Ular | Done |
+| Membuat Makanan Ular | Done |
 
 ## Sprint 3 Backlog
 

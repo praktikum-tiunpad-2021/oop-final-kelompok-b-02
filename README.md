@@ -52,7 +52,8 @@ Aplikasi kami dapat dijalankan dengan menggunakan gradle run
 
 TO;DO
 
-![UML SnakeGame drawio (1)](https://user-images.githubusercontent.com/79497035/145091666-d509aeea-677c-4717-8fb4-11323dc5e3da.png)
+![UML SnakeGame drawio (2)](https://user-images.githubusercontent.com/79497035/145093021-2ee92031-e385-42ec-8648-090986a338c2.png)
+
 
 ## Notable Assumption and Design App Details
 

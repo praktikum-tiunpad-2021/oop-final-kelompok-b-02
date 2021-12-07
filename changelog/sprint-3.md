@@ -18,9 +18,9 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Mengaplikasikan pertambahan panjang | Rakha |
-| 3.2 | Testing, Bug Fixing dan Penambahan Hal lain (jika ada) | Rafi |
-| 3.3 | Membuat Score | Rakha |
+| 3.1 | Mengaplikasikan pertambahan panjang | Rakha | DONE
+| 3.2 | Testing, Bug Fixing dan Penambahan Hal lain (jika ada) | Rafi | DONE
+| 3.3 | Membuat Score | Rakha | DONE
 
 
 ## Retrospective 

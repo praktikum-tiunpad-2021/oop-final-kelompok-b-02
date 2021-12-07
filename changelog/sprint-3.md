@@ -10,15 +10,18 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| Mengaplikasikan Gerakan Ular | Done |
-| Membuat Makanan Ular | Done |
+| Mengaplikasikan pertambahan panjang | Done |
+| Testing, Bug Fixing dan Penambahan Hal lain (jika ada) | Done |
+| Membuat Score | Done |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Preparing the x | Jane Doe | DONE |
-| 3.2 | Make the x | John Doe | FAILED |
+| 3.1 | Mengaplikasikan pertambahan panjang | Rakha |
+| 3.2 | Testing, Bug Fixing dan Penambahan Hal lain (jika ada) | Rafi |
+| 3.3 | Membuat Score | Rakha |
+
 
 ## Retrospective 
 

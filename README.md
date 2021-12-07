@@ -32,7 +32,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 ## Running The App
 
-TO;DO with steps
+Aplikasi kami dapat dijalankan dengan menggunakan gradle run
 
 ## Classes Used
 

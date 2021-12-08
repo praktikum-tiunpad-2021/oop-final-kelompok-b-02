@@ -22,27 +22,16 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Mempelajari 
 
 - **[Sprint 2](changelog/sprint-2.md) - (24/11/2021 - 30/11/2021)** 
-   - Membuat Badan Snake
-   - Make the game can run                                            
-   - Implement Scene Builder             
-   - Implement Snake Pointer             
-   - Implement Start Snake               
-   - Implement Controller Game           
-   - Implement Snake Body                
-   - Implement Game Over Text            
-   - Implement Snake while run           
-   - Implement Collisions                
-   - Implement Food and Random Food Color
-   - Implement Self Destroy              
-   - Implement Score                     
-   - Implement Snake Color               
-   - Implement Set Random Food Spawn 
+   - Membuat Base
+   - Membuat Ular
+   - Mengaplikasikan Gerakan Ular
+   - Membuat Makanan Ular
+   - Mengaplikasikan pertambahan panjang
+   - Membuat Score
    
 - **[Sprint 3](changelog/sprint-3.md) - (1/12/2021 - 7/12/2021)** 
    - Recoding 
-   - Implement Modular                              
-   - Implement Pause Button with Space Bar
-   - Membuat UML 
+   - Testing, Bug Fixing dan Penambahan Hal lain (jika ada)                              
    
 ## Running The App
 
@@ -50,7 +39,12 @@ Aplikasi kami dapat dijalankan dengan menggunakan gradle run
 
 ## Classes Used
 
-TO;DO
+   - Food.java
+   - Grid.java
+   - Main.java
+   - Painter.java
+   - Score.java
+   - Snake.java
 
 ![UML SnakeGame drawio (2)](https://user-images.githubusercontent.com/79497035/145093021-2ee92031-e385-42ec-8648-090986a338c2.png)
 
